@@ -1,2 +1,3 @@
 # ThingSpeak
-Collect data from sensor and send it to server for data analysis purpose by using node.js.
+Collect data from sensors and send it to ThingSpeak channel for data analysis purpose by using node.js.
+https://thingspeak.com/channels/376204/
